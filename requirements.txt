@@ -1,0 +1,10 @@
+Flask==3.1.0
+requests==2.32.3
+beautifulsoup4==4.12.3
+python-dotenv==1.0.1
+aiogram==3.15.0
+selenium==4.27.1
+cachetools==5.5.0
+setuptools>=68.0.0
+gpt4all==2.0.2
+langchain==0.1.0
